@@ -1,3 +1,6 @@
+# What does this project do?
+It is a study on how to get a more beautiful appearance on loading screens developed with React. In this case study, a skeleton structure was used and different loading animations were used.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
